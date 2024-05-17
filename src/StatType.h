@@ -9,7 +9,7 @@
 #include <cassert>
 #include <cmath>
 #include <cstdlib>
-#include <stdnt.h>
+#include <stdint.h>
 
 namespace ramulator {
 
